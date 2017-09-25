@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Varun's Blog
+A simple blog site for me to share my random thoughts
 
-Things you may want to cover:
+## Contributors
+* Varun Dhananjaya
 
-* Ruby version
+## MVP Design
+* Create new blog posts
+* View published posts
+* Delete existing posts
 
-* System dependencies
+## Functionality
 
-* Configuration
+## Architecture
+Database
+* CKEditor assets
+* Posts
 
-* Database creation
+## Issues
+* Had some trouble with the initial setup of Rails on my machine due to a bug in the Windows installer
+  * Resolved using tips from this thread: https://stackoverflow.com/questions/35545361/rails-the-system-cannot-find-the-path-specified
+* Still having some issues getting the posts to render properly on the landing page
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## References
+* scotch.io tutorial: https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1
