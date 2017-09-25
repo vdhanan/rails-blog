@@ -12,7 +12,7 @@ A simple blog site for me to share my random thoughts
 * Delete existing posts
 
 ## Functionality
-https://github.com/vdhanan/rails-blog/blob/master/2017-09-25.png
+[[https://github.com/vdhanan/rails-blog/blob/master/2017-09-25.png]]
 
 ## Architecture
 Database
